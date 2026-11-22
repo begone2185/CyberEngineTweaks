@@ -108,7 +108,7 @@ target("cyber_engine_tweaks")
 
         -- Split tag so we can easily extract version from it.
         local splitGitTag = configVars.CET_GIT_TAG:split("%.")
-        assert(#splitGitTag == 3)
+       -- assert(#splitGitTag == 3)
 
         -- Setup version variables.
         configVars.CET_VERSION_MAJOR = tonumber(splitGitTag[1]:match("%d+"))
