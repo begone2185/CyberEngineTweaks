@@ -64,4 +64,3 @@ Mods that run on Cyber Engine Tweaks are not affected by the GPL: if your mod on
 
 Code contributed up to and including commit `213151f` was released under the MIT License; that notice is kept in [LICENSE-MIT](LICENSE-MIT). Third-party components keep their own licenses, listed in [ThirdParty_LICENSES](ThirdParty_LICENSES).
 
-
